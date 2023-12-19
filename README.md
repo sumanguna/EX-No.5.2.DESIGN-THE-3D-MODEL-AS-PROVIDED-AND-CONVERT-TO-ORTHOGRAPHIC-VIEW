@@ -10,7 +10,7 @@ To create orthographic view of given 3D model
 3. 16 GB of RAM (integrated graphics recommend 1 GB or more)
 4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
 
-## PROCEDURE:
+## PROCEDURE: 
 
 ### STEP-1:
 Open Fusion 360 and select file and click new file
